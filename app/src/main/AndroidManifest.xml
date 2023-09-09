@@ -36,9 +36,10 @@
 
         <service
             android:name=".firebase.NotificationsService"
+            android:directBootAware="true"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+                <action android:name="com.google.firebase.MESSAGE_EVENT"/>
             </intent-filter>
         </service>
     </application>

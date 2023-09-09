@@ -34,7 +34,7 @@
         </activity>
 
         <service
-            android:name=".NotificationsService"
+            android:name=".firebase.NotificationsService"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>

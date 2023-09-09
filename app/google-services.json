@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "507684054818",
+    "project_id": "spotifyclone-cjp87",
+    "storage_bucket": "spotifyclone-cjp87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507684054818:android:11460182ccb82c4a7be77b",
+        "android_client_info": {
+          "package_name": "com.carlosjimz87.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507684054818-hvsni9f6dugkrs8q4cbr2bo9qf1jeiu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGFisJGNvpztpCCL3oAIxrvbnhEsI28mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507684054818-hvsni9f6dugkrs8q4cbr2bo9qf1jeiu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507684054818:android:bd2508b1693f8d697be77b",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507684054818-hvsni9f6dugkrs8q4cbr2bo9qf1jeiu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGFisJGNvpztpCCL3oAIxrvbnhEsI28mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507684054818-hvsni9f6dugkrs8q4cbr2bo9qf1jeiu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
